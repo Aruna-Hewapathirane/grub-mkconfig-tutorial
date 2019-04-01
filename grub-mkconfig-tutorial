@@ -1,4 +1,5 @@
 grub2-mkconfig Tutorial
+6 months ago by Shahriar Shovon
 
 If you’re using Linux for quite a while and it is your daily task to install and test new Linux distributions, then you might 
 have seen at times all the installed operating systems are not listed in the GRUB menu. It may be due to GRUB not being installed
