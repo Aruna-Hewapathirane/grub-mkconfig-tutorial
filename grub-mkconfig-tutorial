@@ -1,13 +1,10 @@
 grub2-mkconfig Tutorial
-6 months ago
-by Shahriar Shovon
-If you’re using Linux for quite a while and it is your daily task to install and test new Linux distributions, then you might have seen at times all the installed operating systems are not listed in the GRUB menu. It may be due to GRUB not being installed correctly, or GRUB not able scan the hard drives correctly.
 
-If it ever happened to you, do not freak out! It is really very easy to solve. The GRUB 2 bootloader has special tools for scanning the hard drives installed on your computer for bootable operating systems installed on your hard drives.
-                                                                       
-                                                                                                
-
-                                        
+If you’re using Linux for quite a while and it is your daily task to install and test new Linux distributions, then you might 
+have seen at times all the installed operating systems are not listed in the GRUB menu. It may be due to GRUB not being installed
+correctly, or GRUB not able scan the hard drives correctly.If it ever happened to you, do not freak out! It is really very easy 
+to solve. The GRUB 2 bootloader has special tools for scanning the hard drives installed on your computer for bootable operating 
+systems installed on your hard drives.
 
 In this article, I will show you how to solve the problems stated above and use grub2-mkconfig tool to solve it.  I will be using Debian 9 Stretch for the demonstration, but it should work on any modern Linux distribution with GRUB 2 installed. Let’s get started.
 What grub2-mkconfig Does:
